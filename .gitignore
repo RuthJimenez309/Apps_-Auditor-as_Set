@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.js
+*.cjs
+.env
+pm-debug.log
