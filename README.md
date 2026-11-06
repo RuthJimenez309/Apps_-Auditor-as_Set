@@ -17,4 +17,4 @@ Este documento recopila las evidencias de seguridad obtenidas durante la ejecuci
 * **Evidencia Técnica:** Payload recibido: `SELECT * FROM users; --`.
 * **Mitigación GRC:** Forzar el uso de consultas preparadas parametrizadas en la capa de persistencia y aplicar esquemas de validación con Zod para descartar patrones maliciosos en la entrada de datos.'
 * 
-* **Laboratorio practico by RJ
+* Laboratorio practico by RJ
